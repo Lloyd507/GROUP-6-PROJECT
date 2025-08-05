@@ -1,2 +1,2 @@
 # GROUP-6-PROJECT
-A project to automate stuff
+A script to create a docker containers and secure it with ufw
